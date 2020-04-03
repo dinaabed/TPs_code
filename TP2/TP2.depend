@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1552318059 source:d:\2.wassim-work-ta\cours_sod\ro_et_données_massives\tp2\code\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1585563612 source:d:\dina_ro_c\tp2\code\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1585838052 source:c:\users\abedd\desktop\code\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
